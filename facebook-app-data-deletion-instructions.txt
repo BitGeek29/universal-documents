@@ -1,0 +1,40 @@
+Data Deletion Instructions
+
+Last updated: August 11 2024.
+
+1. Introduction
+We value your privacy and are committed to ensuring that your personal data is handled responsibly. This document outlines the steps you can take to request the deletion of your personal data from our app.
+
+2. How to Request Data Deletion
+If you wish to delete your personal data from our app, please follow the instructions below:
+
+Step 1: Contact Us
+Send an email to the administrator with the subject line "Data Deletion Request." In your email, please include the following information:
+
+Your full name
+The email address associated with your account
+A description of the data you wish to have deleted
+Step 2: Verification
+Upon receiving your request, we will verify your identity to ensure that the request is legitimate. This may involve sending a confirmation email to the address associated with your account or requesting additional information.
+
+Step 3: Data Deletion
+Once your identity is verified, we will process your request. We will delete your personal data from our systems within [X] business days and send you a confirmation email once the deletion is complete.
+
+3. Data That Can Be Deleted
+You may request the deletion of the following types of data:
+
+Personal information (e.g., name, email address)
+Account information (e.g., username, password)
+Usage data (e.g., interactions within the app)
+Please note that certain data may be retained if required by law or for legitimate business purposes (e.g., record-keeping or legal compliance).
+
+4. Consequences of Data Deletion
+Deleting your data may result in the following:
+
+Loss of Access: You may lose access to your account and any associated content or services within the app.
+Permanent Deletion: Once your data is deleted, it cannot be recovered.
+5. Disclaimer
+We are not responsible for any damages, losses, or other consequences that may arise from the deletion of your data. By requesting the deletion of your data, you acknowledge that you do so at your own risk. Additionally, some data may not be immediately deleted from backup systems, but it will be removed according to our standard backup deletion processes.
+
+6. Contact Us
+If you have any questions or concerns about these data deletion instructions, please contact the administrator.

@@ -1,0 +1,43 @@
+Privacy Policy
+
+Last updated: August 11 2024.
+
+1. Introduction
+This Privacy Policy describes how your personal information is collected, used, and shared when you interact with our app, particularly during the login process. By using our app, you agree to the collection and use of information in accordance with this policy.
+
+2. Information We Collect
+When you log in to our app, we may collect the following information:
+
+Personal Information: This includes your name, email address, and other contact details you provide during registration or login.
+Login Credentials: Your username and password, which are securely stored and encrypted.
+Device Information: Details about the device you are using, such as the IP address, operating system, and browser type.
+Usage Data: Information about how you interact with our app, including pages visited, features used, and the time spent on each section.
+3. How We Use Your Information
+We may use the information we collect for the following purposes:
+
+To Provide and Maintain the App: To ensure the app functions correctly and to provide you with the services you expect.
+To Improve the App: To analyze usage patterns and feedback to enhance the user experience.
+To Communicate with You: To send you updates, notifications, and other relevant information about the app.
+For Security: To protect your account and personal information from unauthorized access.
+4. How We Share Your Information
+We do not sell or rent your personal information to third parties. However, we may share your information with:
+
+Service Providers: Third-party companies and individuals who assist us in operating our app and providing our services.
+Legal Requirements: If required by law or in response to valid requests by public authorities.
+5. Data Security
+We take the security of your data seriously. We implement appropriate technical and organizational measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction.
+
+6. Your Rights
+You have the right to:
+
+Access: Request a copy of the personal information we hold about you.
+Correction: Request that we correct any inaccurate or incomplete information.
+Deletion: Request the deletion of your personal information, subject to legal obligations.
+7. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated revision date.
+
+8. Contact Us
+If you have any questions about this Privacy Policy or your personal data, please contact the administrator.
+
+9. Disclaimer
+We are not responsible for any damages, losses, or other consequences that may arise from your use of this app or from any unauthorized access to your data. By using this app and providing us with your data, you do so at your own risk.
